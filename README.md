@@ -26,7 +26,7 @@ Flappy Bird 2D is a classic remake of the popular Flappy Bird game, where you co
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flappy-bird.git
+   git clone https://github.com/Aaditya060/flappy-bird.git
    ```
 2. Open the project in Unity.
 3. Click on **Play** and start flapping!
