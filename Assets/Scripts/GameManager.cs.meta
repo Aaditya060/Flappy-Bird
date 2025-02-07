@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0d38fa46406824f43a83c8ee7949a60c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ObstaclePrefab: {fileID: 1943185985699771934, guid: de16104255ccef147833841d270d4015, type: 3}
+  - GameOverPanel: {fileID: 1398053119275458354, guid: 731fa53bf87f31147b8f382b23a577c2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
